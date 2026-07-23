@@ -1,0 +1,6 @@
+# Local environment files can contain service credentials.
+.env.local
+.env.*.local
+node_modules/
+.next/
+*.tsbuildinfo
